@@ -1,2 +1,2 @@
 # python-classwork
-I will try to upload my python class assignments here.
+Python assignments completed during Summer 2026 at MGCCC while doing research internship at Mississippi State University.
